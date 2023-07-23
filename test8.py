@@ -22,3 +22,4 @@ while i <= 10:
     print(i * "*")   # string and number can multiply. String will be multiply based on the number
     i = i + 1
 
+
