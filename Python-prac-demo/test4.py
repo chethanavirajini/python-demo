@@ -31,3 +31,12 @@ while chance < 3:
     chance = chance + 1
 else:
     print("Better luck next time")
+
+print(".......................................")
+
+num = int(input("number: "))
+factorial = 1
+for i in range(1, num+1):
+    factorial = factorial*i
+    print(factorial)
+print(factorial)
